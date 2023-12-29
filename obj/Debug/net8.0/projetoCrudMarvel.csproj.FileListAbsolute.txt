@@ -135,3 +135,4 @@
 /Users/antoniodiniz/Desktop/code/projetoCrudMarvel/obj/Debug/net8.0/projetoCrudMarvel.pdb
 /Users/antoniodiniz/Desktop/code/projetoCrudMarvel/obj/Debug/net8.0/projetoCrudMarvel.genruntimeconfig.cache
 /Users/antoniodiniz/Desktop/code/projetoCrudMarvel/obj/Debug/net8.0/ref/projetoCrudMarvel.dll
+/Users/antoniodiniz/Desktop/code/projetoCrudMarvel/obj/Debug/net8.0/projetoCrudMarvel.sourcelink.json
